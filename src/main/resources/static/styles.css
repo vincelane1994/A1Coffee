@@ -1,0 +1,46 @@
+
+#bannerimage {
+  width: 100%;
+  background-image: url(/coffee-bean.jpg);
+  height: 405px;
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.ulnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  position:fixed; top:2%; right:2%;
+}
+
+.linav {
+  float: left;
+}
+
+.lianav {
+  display: block;
+  color:beige;
+  text-align: center;
+  padding: 10px 14px;
+  text-decoration: none;
+}
+
+.index {
+	backfround-color: black;
+}
+* {
+
+margin:0;
+
+padding:0;
+
+}
+
+.welcome {
+	text-align:center;
+}
